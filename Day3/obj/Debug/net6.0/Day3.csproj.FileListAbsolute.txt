@@ -1,0 +1,15 @@
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\Day3.csproj.AssemblyReference.cache
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\Day3.AssemblyInfoInputs.cache
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\Day3.AssemblyInfo.cs
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\Day3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Bootcamp Programming\Day3\bin\Debug\net6.0\Day3.exe
+D:\GeekBrains\Bootcamp Programming\Day3\bin\Debug\net6.0\Day3.deps.json
+D:\GeekBrains\Bootcamp Programming\Day3\bin\Debug\net6.0\Day3.runtimeconfig.json
+D:\GeekBrains\Bootcamp Programming\Day3\bin\Debug\net6.0\Day3.dll
+D:\GeekBrains\Bootcamp Programming\Day3\bin\Debug\net6.0\Day3.pdb
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\Day3.dll
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\refint\Day3.dll
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\Day3.pdb
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\Day3.genruntimeconfig.cache
+D:\GeekBrains\Bootcamp Programming\Day3\obj\Debug\net6.0\ref\Day3.dll
